@@ -288,6 +288,7 @@ The [Future of Privacy Forum published a visual guide ](https://fpf.org/wp-conte
 
 ### Prevent Hacking of your internet facing services
 
+
 * Perform Secure Code Training based on the [OWASP top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 * Use a WAF and DDoS mitigation service.
